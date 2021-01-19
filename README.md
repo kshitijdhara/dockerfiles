@@ -1,6 +1,8 @@
 # Dockerfiles
 
 The follow repository contain various docker files to run and create Docker container readily 
+if Dockerfile then name the file Dockerfile 
+if docker compose file type then name the file docker compose.yml
 
 # Prerequistes
 Docker
